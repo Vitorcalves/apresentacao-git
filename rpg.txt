@@ -5,3 +5,6 @@ fugi do monstro
 sai da sala
 encontrou um bau
 pegou a espada
+entrei na segunda sala
+nao encontrei nada
+sai da sala
