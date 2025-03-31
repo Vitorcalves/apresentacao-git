@@ -1,3 +1,6 @@
 entrei na masmorra
 abri uma porta
 encontrei um monstro
+ataquei o monstro
+abri o bau
+sai da sala
