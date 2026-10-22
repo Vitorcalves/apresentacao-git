@@ -6,5 +6,6 @@ sai da sala
 encontrou um bau
 pegou a espada
 entrei na segunda sala
-nao encontrei nada
+encontrei um bau
+peguei os tesouros
 sai da sala
