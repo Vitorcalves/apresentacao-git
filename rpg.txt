@@ -9,3 +9,4 @@ entrei na segunda sala
 encontrei um bau
 peguei os tesouros
 sai da sala
+scd
